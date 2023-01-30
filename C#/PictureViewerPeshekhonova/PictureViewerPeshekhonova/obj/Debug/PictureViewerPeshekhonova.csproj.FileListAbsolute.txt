@@ -1,0 +1,25 @@
+C:\Users\Ольга\source\repos\PictureViewerPeshekhonova\PictureViewerPeshekhonova\bin\Debug\PictureViewerPeshekhonova.exe.config
+C:\Users\Ольга\source\repos\PictureViewerPeshekhonova\PictureViewerPeshekhonova\bin\Debug\PictureViewerPeshekhonova.exe
+C:\Users\Ольга\source\repos\PictureViewerPeshekhonova\PictureViewerPeshekhonova\bin\Debug\PictureViewerPeshekhonova.pdb
+C:\Users\Ольга\source\repos\PictureViewerPeshekhonova\PictureViewerPeshekhonova\obj\Debug\PictureViewerPeshekhonova.csproj.AssemblyReference.cache
+C:\Users\Ольга\source\repos\PictureViewerPeshekhonova\PictureViewerPeshekhonova\obj\Debug\PictureViewerPeshekhonova.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ольга\source\repos\PictureViewerPeshekhonova\PictureViewerPeshekhonova\obj\Debug\PictureViewerPeshekhonova.Form1.resources
+C:\Users\Ольга\source\repos\PictureViewerPeshekhonova\PictureViewerPeshekhonova\obj\Debug\PictureViewerPeshekhonova.Properties.Resources.resources
+C:\Users\Ольга\source\repos\PictureViewerPeshekhonova\PictureViewerPeshekhonova\obj\Debug\PictureViewerPeshekhonova.csproj.GenerateResource.cache
+C:\Users\Ольга\source\repos\PictureViewerPeshekhonova\PictureViewerPeshekhonova\obj\Debug\PictureViewerPeshekhonova.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\source\repos\PictureViewerPeshekhonova\PictureViewerPeshekhonova\obj\Debug\PictureViewerPeshekhonova.exe
+C:\Users\Ольга\source\repos\PictureViewerPeshekhonova\PictureViewerPeshekhonova\obj\Debug\PictureViewerPeshekhonova.pdb
+<<<<<<< HEAD
+C:\Users\Ольга\C#\PictureViewerPeshekhonova\PictureViewerPeshekhonova\bin\Debug\PictureViewerPeshekhonova.exe.config
+C:\Users\Ольга\C#\PictureViewerPeshekhonova\PictureViewerPeshekhonova\bin\Debug\PictureViewerPeshekhonova.exe
+C:\Users\Ольга\C#\PictureViewerPeshekhonova\PictureViewerPeshekhonova\bin\Debug\PictureViewerPeshekhonova.pdb
+C:\Users\Ольга\C#\PictureViewerPeshekhonova\PictureViewerPeshekhonova\obj\Debug\PictureViewerPeshekhonova.csproj.AssemblyReference.cache
+C:\Users\Ольга\C#\PictureViewerPeshekhonova\PictureViewerPeshekhonova\obj\Debug\PictureViewerPeshekhonova.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ольга\C#\PictureViewerPeshekhonova\PictureViewerPeshekhonova\obj\Debug\PictureViewerPeshekhonova.Form1.resources
+C:\Users\Ольга\C#\PictureViewerPeshekhonova\PictureViewerPeshekhonova\obj\Debug\PictureViewerPeshekhonova.Properties.Resources.resources
+C:\Users\Ольга\C#\PictureViewerPeshekhonova\PictureViewerPeshekhonova\obj\Debug\PictureViewerPeshekhonova.csproj.GenerateResource.cache
+C:\Users\Ольга\C#\PictureViewerPeshekhonova\PictureViewerPeshekhonova\obj\Debug\PictureViewerPeshekhonova.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\C#\PictureViewerPeshekhonova\PictureViewerPeshekhonova\obj\Debug\PictureViewerPeshekhonova.exe
+C:\Users\Ольга\C#\PictureViewerPeshekhonova\PictureViewerPeshekhonova\obj\Debug\PictureViewerPeshekhonova.pdb
+=======
+>>>>>>> 0e10e9e081830060f8b8dd374b1fca36d9d579c4
